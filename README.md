@@ -11,3 +11,8 @@
 - Contexto no lado do Cliente
 
 obs: o contexto permite controle do lado do cliente e do servidor
+
+## aula 05
+- Context WithValue
+
+obs: passar infos via metadados - metricas, telemetria, tracing
