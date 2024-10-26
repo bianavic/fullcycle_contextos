@@ -5,4 +5,9 @@
 - Entendendo conceitos básicos
 
 ## aula 03
-- server HTTP
+- Server HTTP
+
+## aula 04
+- Contexto no lado do Cliente
+
+obs: o contexto permite controle do lado do cliente e do servidor
